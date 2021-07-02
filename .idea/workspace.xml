@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5924703-806f-4709-84e0-a04b1ff386fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/contracts/Adoption.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../back-end/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../back-end/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../back-end/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../front-end/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../front-end/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myd.private.js/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myd.private.js/src/services/myd.js/endpoints.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../myd.private.js/src/services/myd.js/endpoints.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../myd.private.js/src/services/myd.js/myd.user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../myd.private.js/src/services/myd.js/myd.user.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Solidity Contract" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ulOzDn1ssnyq0cCCV1Opw0AO37" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5924703-806f-4709-84e0-a04b1ff386fe" name="Default Changelist" comment="" />
+      <created>1625236970172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625236970172</updated>
+      <workItem from="1625236971250" duration="998000" />
+      <workItem from="1625238000432" duration="384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2347" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625237522620">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2347" y="167" key="#com.intellij.fileTypes.FileTypeChooser/1920.1080.1366.768/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1625237522620" />
+    <state x="2307" y="106" width="592" height="522" key="find.popup" timestamp="1625237840574">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2307" y="106" width="592" height="522" key="find.popup/1920.1080.1366.768/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1625237840574" />
+    <state x="2225" y="188" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1625238383831">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state x="2225" y="188" key="git4idea.remote.GitConfigureRemotesDialog/1920.0.1366.768/0.0.1920.1080@1920.0.1366.768" timestamp="1625238383831" />
+    <state x="2348" y="264" key="git4idea.remote.GitConfigureRemotesDialog/1920.1080.1366.768/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1625237897303" />
+  </component>
+</project>
